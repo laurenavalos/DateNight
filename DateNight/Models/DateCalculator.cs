@@ -1,5 +1,3 @@
-using Exception = Java.Lang.Exception;
-
 namespace DateNight.Models;
 
 public class DateCalculator

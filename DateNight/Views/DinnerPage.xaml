@@ -7,7 +7,7 @@
         <StackLayout>
             <Image Source="dinner_main"/>
             
-            <Border Stroke="Grey" Margin="0,15">
+            <Border Stroke="Gray" Margin="0,15">
                 <Entry x:Name="txtDinner" Keyboard="Numeric">
                     
                 </Entry>
